@@ -1,0 +1,18 @@
+нояб. 27, 2022 1:56:17 PM test main
+INFO: работа
+нояб. 27, 2022 1:56:17 PM test main
+WARNING: баг
+нояб. 27, 2022 1:54:00 PM Solve <init>
+INFO: Пользователь ввел числа
+нояб. 27, 2022 1:54:05 PM Solve solutions
+INFO: Пользователь запросил умножение
+нояб. 27, 2022 1:54:05 PM Solve proverka
+INFO: Вычисление произведено
+нояб. 27, 2022 1:58:11 PM Seminar2Task5 getFiles
+WARNING: Файлы не найдены в этой папке
+нояб. 27, 2022 1:58:11 PM Seminar2Task5 writer
+INFO: В предыдущем методе файл вернул null
+нояб. 27, 2022 1:59:54 PM test main
+INFO: работа
+нояб. 27, 2022 1:59:54 PM test main
+WARNING: баг
